@@ -1,0 +1,201 @@
+name,email,ticket_text,category
+Nikhil Arora,nikhil.arora@gmail.com,Forgot my account password,Account Issue
+Aarav Sharma,aarav.sharma@company.com,Error while making online payment,Payment Issue
+Vikram Malhotra,vikram.malhotra@gmail.com,WiFi not connecting,Network Issue
+Saurabh Jain,saurabh.jain@hotmail.com,Application freezes again and again,Technical Issue
+Saurabh Jain,saurabh.jain@yahoo.com,Software not responding,Technical Issue
+Pooja Iyer,pooja.iyer@yahoo.com,Payment failed but money deducted,Payment Issue
+Divya Malhotra,divya.malhotra@hotmail.com,Transaction failed during payment,Payment Issue
+Vikram Malhotra,vikram.malhotra@outlook.com,Error while making online payment,Payment Issue
+Ananya Gupta,ananya.gupta@yahoo.com,Transaction failed during payment,Payment Issue
+Ishita Kapoor,ishita.kapoor@hotmail.com,Need password reset,Account Issue
+Ishita Kapoor,ishita.kapoor@yahoo.com,Network speed is very slow,Network Issue
+Arjun Nair,arjun.nair@hotmail.com,Account locked suddenly,Account Issue
+Sneha Patel,sneha.patel@outlook.com,Technical error in application,Technical Issue
+Ishita Kapoor,ishita.kapoor@company.com,Forgot my account password,Account Issue
+Meera Das,meera.das@company.com,Payment page not loading,Payment Issue
+Nikhil Arora,nikhil.arora@hotmail.com,Network connection drops frequently,Network Issue
+Aarav Sharma,aarav.sharma@company.com,Technical error in application,Technical Issue
+Rahul Khanna,rahul.khanna@company.com,Technical error in application,Technical Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Need password reset,Account Issue
+Amit Choudhary,amit.choudhary@gmail.com,Unable to login to my account,Account Issue
+Kunal Mehta,kunal.mehta@outlook.com,Error while making online payment,Payment Issue
+Meera Das,meera.das@hotmail.com,Network speed is very slow,Network Issue
+Ishita Kapoor,ishita.kapoor@company.com,Login credentials not accepted,Account Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Login credentials not accepted,Account Issue
+Simran Kaur,simran.kaur@hotmail.com,Internet is not working,Network Issue
+Priya Singh,priya.singh@yahoo.com,Forgot my account password,Account Issue
+Amit Choudhary,amit.choudhary@hotmail.com,Refund not received,Payment Issue
+Aditya Rao,aditya.rao@outlook.com,Login credentials not accepted,Account Issue
+Ishita Kapoor,ishita.kapoor@outlook.com,WiFi not connecting,Network Issue
+Arjun Nair,arjun.nair@company.com,Software not responding,Technical Issue
+Harshit Goel,harshit.goel@gmail.com,Account locked suddenly,Account Issue
+Meera Das,meera.das@gmail.com,Unexpected error occurred,Technical Issue
+Neha Joshi,neha.joshi@company.com,Account locked suddenly,Account Issue
+Arjun Nair,arjun.nair@hotmail.com,Account locked suddenly,Account Issue
+Harshit Goel,harshit.goel@company.com,Software not responding,Technical Issue
+Saurabh Jain,saurabh.jain@hotmail.com,Unexpected error occurred,Technical Issue
+Rahul Khanna,rahul.khanna@gmail.com,Account locked suddenly,Account Issue
+Kriti Bansal,kriti.bansal@outlook.com,Payment failed but money deducted,Payment Issue
+Amit Choudhary,amit.choudhary@hotmail.com,Unexpected error occurred,Technical Issue
+Amit Choudhary,amit.choudhary@hotmail.com,Need password reset,Account Issue
+Kriti Bansal,kriti.bansal@outlook.com,Transaction failed during payment,Payment Issue
+Rahul Khanna,rahul.khanna@gmail.com,Transaction failed during payment,Payment Issue
+Vikram Malhotra,vikram.malhotra@gmail.com,Payment page not loading,Payment Issue
+Vikram Malhotra,vikram.malhotra@hotmail.com,WiFi not connecting,Network Issue
+Divya Malhotra,divya.malhotra@outlook.com,Software not responding,Technical Issue
+Aarav Sharma,aarav.sharma@company.com,Account locked suddenly,Account Issue
+Nikhil Arora,nikhil.arora@company.com,WiFi not connecting,Network Issue
+Nikhil Arora,nikhil.arora@gmail.com,Poor network coverage,Network Issue
+Divya Malhotra,divya.malhotra@outlook.com,Login credentials not accepted,Account Issue
+Priya Singh,priya.singh@hotmail.com,Login credentials not accepted,Account Issue
+Sneha Patel,sneha.patel@yahoo.com,WiFi not connecting,Network Issue
+Arjun Nair,arjun.nair@yahoo.com,Payment failed but money deducted,Payment Issue
+Akash Mishra,akash.mishra@yahoo.com,WiFi not connecting,Network Issue
+Kunal Mehta,kunal.mehta@company.com,Unexpected error occurred,Technical Issue
+Simran Kaur,simran.kaur@hotmail.com,Technical error in application,Technical Issue
+Nikhil Arora,nikhil.arora@yahoo.com,WiFi not connecting,Network Issue
+Neha Joshi,neha.joshi@gmail.com,Payment failed but money deducted,Payment Issue
+Meera Das,meera.das@yahoo.com,Error while making online payment,Payment Issue
+Payal Verma,payal.verma@outlook.com,Forgot my account password,Account Issue
+Nikhil Arora,nikhil.arora@outlook.com,Login credentials not accepted,Account Issue
+Payal Verma,payal.verma@yahoo.com,Network connection drops frequently,Network Issue
+Pooja Iyer,pooja.iyer@hotmail.com,Unable to login to my account,Account Issue
+Rahul Khanna,rahul.khanna@hotmail.com,Application freezes again and again,Technical Issue
+Payal Verma,payal.verma@company.com,Internet is not working,Network Issue
+Payal Verma,payal.verma@gmail.com,Login credentials not accepted,Account Issue
+Aditya Rao,aditya.rao@company.com,Payment page not loading,Payment Issue
+Vikram Malhotra,vikram.malhotra@outlook.com,Network speed is very slow,Network Issue
+Mohit Aggarwal,mohit.aggarwal@company.com,Technical error in application,Technical Issue
+Neha Joshi,neha.joshi@company.com,Transaction failed during payment,Payment Issue
+Ishita Kapoor,ishita.kapoor@outlook.com,Account locked suddenly,Account Issue
+Meera Das,meera.das@outlook.com,Login credentials not accepted,Account Issue
+Priya Singh,priya.singh@gmail.com,App crashes on opening,Technical Issue
+Ananya Gupta,ananya.gupta@yahoo.com,Unexpected error occurred,Technical Issue
+Kriti Bansal,kriti.bansal@yahoo.com,Error while making online payment,Payment Issue
+Payal Verma,payal.verma@hotmail.com,Internet is not working,Network Issue
+Priya Singh,priya.singh@gmail.com,Unable to login to my account,Account Issue
+Riya Saxena,riya.saxena@company.com,Payment failed but money deducted,Payment Issue
+Sneha Patel,sneha.patel@hotmail.com,Account locked suddenly,Account Issue
+Akash Mishra,akash.mishra@yahoo.com,Account locked suddenly,Account Issue
+Payal Verma,payal.verma@outlook.com,Technical error in application,Technical Issue
+Aditya Rao,aditya.rao@hotmail.com,Internet is not working,Network Issue
+Aarav Sharma,aarav.sharma@yahoo.com,Poor network coverage,Network Issue
+Mohit Aggarwal,mohit.aggarwal@company.com,Payment failed but money deducted,Payment Issue
+Mohit Aggarwal,mohit.aggarwal@yahoo.com,Internet is not working,Network Issue
+Aarav Sharma,aarav.sharma@company.com,Internet is not working,Network Issue
+Meera Das,meera.das@yahoo.com,Error while making online payment,Payment Issue
+Riya Saxena,riya.saxena@hotmail.com,App crashes on opening,Technical Issue
+Amit Choudhary,amit.choudhary@company.com,Poor network coverage,Network Issue
+Akash Mishra,akash.mishra@yahoo.com,Refund not received,Payment Issue
+Sneha Patel,sneha.patel@company.com,Refund not received,Payment Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Poor network coverage,Network Issue
+Amit Choudhary,amit.choudhary@outlook.com,Unable to login to my account,Account Issue
+Priya Singh,priya.singh@gmail.com,Refund not received,Payment Issue
+Mohit Aggarwal,mohit.aggarwal@company.com,Payment failed but money deducted,Payment Issue
+Meera Das,meera.das@company.com,WiFi not connecting,Network Issue
+Akash Mishra,akash.mishra@outlook.com,Software not responding,Technical Issue
+Akash Mishra,akash.mishra@company.com,Payment failed but money deducted,Payment Issue
+Saurabh Jain,saurabh.jain@yahoo.com,Transaction failed during payment,Payment Issue
+Ishita Kapoor,ishita.kapoor@hotmail.com,Internet is not working,Network Issue
+Kriti Bansal,kriti.bansal@gmail.com,Poor network coverage,Network Issue
+Meera Das,meera.das@company.com,Login credentials not accepted,Account Issue
+Priya Singh,priya.singh@outlook.com,Network connection drops frequently,Network Issue
+Amit Choudhary,amit.choudhary@gmail.com,Account locked suddenly,Account Issue
+Simran Kaur,simran.kaur@hotmail.com,Need password reset,Account Issue
+Riya Saxena,riya.saxena@outlook.com,Account locked suddenly,Account Issue
+Sneha Patel,sneha.patel@hotmail.com,Payment page not loading,Payment Issue
+Aarav Sharma,aarav.sharma@yahoo.com,Payment page not loading,Payment Issue
+Meera Das,meera.das@outlook.com,Network connection drops frequently,Network Issue
+Harshit Goel,harshit.goel@yahoo.com,Payment failed but money deducted,Payment Issue
+Ishita Kapoor,ishita.kapoor@yahoo.com,App crashes on opening,Technical Issue
+Nikhil Arora,nikhil.arora@company.com,Account locked suddenly,Account Issue
+Arjun Nair,arjun.nair@outlook.com,Unable to login to my account,Account Issue
+Sneha Patel,sneha.patel@hotmail.com,Poor network coverage,Network Issue
+Kunal Mehta,kunal.mehta@company.com,Network connection drops frequently,Network Issue
+Kunal Mehta,kunal.mehta@hotmail.com,Refund not received,Payment Issue
+Riya Saxena,riya.saxena@outlook.com,Error while making online payment,Payment Issue
+Arjun Nair,arjun.nair@hotmail.com,Application freezes again and again,Technical Issue
+Saurabh Jain,saurabh.jain@yahoo.com,Login credentials not accepted,Account Issue
+Pooja Iyer,pooja.iyer@company.com,Error while making online payment,Payment Issue
+Aarav Sharma,aarav.sharma@yahoo.com,Payment failed but money deducted,Payment Issue
+Neha Joshi,neha.joshi@company.com,Network speed is very slow,Network Issue
+Harshit Goel,harshit.goel@outlook.com,Transaction failed during payment,Payment Issue
+Rahul Khanna,rahul.khanna@yahoo.com,Network speed is very slow,Network Issue
+Mohit Aggarwal,mohit.aggarwal@outlook.com,Payment failed but money deducted,Payment Issue
+Sneha Patel,sneha.patel@hotmail.com,Network speed is very slow,Network Issue
+Pooja Iyer,pooja.iyer@gmail.com,Payment page not loading,Payment Issue
+Meera Das,meera.das@yahoo.com,Forgot my account password,Account Issue
+Meera Das,meera.das@gmail.com,Transaction failed during payment,Payment Issue
+Pooja Iyer,pooja.iyer@hotmail.com,Payment failed but money deducted,Payment Issue
+Riya Saxena,riya.saxena@company.com,Transaction failed during payment,Payment Issue
+Divya Malhotra,divya.malhotra@company.com,Application freezes again and again,Technical Issue
+Ananya Gupta,ananya.gupta@yahoo.com,Unable to login to my account,Account Issue
+Riya Saxena,riya.saxena@company.com,Network connection drops frequently,Network Issue
+Arjun Nair,arjun.nair@outlook.com,Network speed is very slow,Network Issue
+Divya Malhotra,divya.malhotra@gmail.com,Internet is not working,Network Issue
+Harshit Goel,harshit.goel@company.com,Poor network coverage,Network Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Unable to login to my account,Account Issue
+Nikhil Arora,nikhil.arora@yahoo.com,Need password reset,Account Issue
+Kunal Mehta,kunal.mehta@company.com,App crashes on opening,Technical Issue
+Payal Verma,payal.verma@outlook.com,Network speed is very slow,Network Issue
+Aarav Sharma,aarav.sharma@outlook.com,App crashes on opening,Technical Issue
+Nikhil Arora,nikhil.arora@gmail.com,Internet is not working,Network Issue
+Vikram Malhotra,vikram.malhotra@company.com,Network connection drops frequently,Network Issue
+Kunal Mehta,kunal.mehta@hotmail.com,App crashes on opening,Technical Issue
+Rohan Verma,rohan.verma@outlook.com,Application freezes again and again,Technical Issue
+Simran Kaur,simran.kaur@hotmail.com,Technical error in application,Technical Issue
+Sneha Patel,sneha.patel@outlook.com,Forgot my account password,Account Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Network connection drops frequently,Network Issue
+Rahul Khanna,rahul.khanna@yahoo.com,Poor network coverage,Network Issue
+Neha Joshi,neha.joshi@outlook.com,Payment page not loading,Payment Issue
+Mohit Aggarwal,mohit.aggarwal@outlook.com,Poor network coverage,Network Issue
+Aditya Rao,aditya.rao@yahoo.com,Forgot my account password,Account Issue
+Ananya Gupta,ananya.gupta@yahoo.com,Software not responding,Technical Issue
+Divya Malhotra,divya.malhotra@outlook.com,App crashes on opening,Technical Issue
+Pooja Iyer,pooja.iyer@outlook.com,Network speed is very slow,Network Issue
+Rahul Khanna,rahul.khanna@outlook.com,Error while making online payment,Payment Issue
+Amit Choudhary,amit.choudhary@hotmail.com,Payment page not loading,Payment Issue
+Nikhil Arora,nikhil.arora@gmail.com,Application freezes again and again,Technical Issue
+Simran Kaur,simran.kaur@yahoo.com,Account locked suddenly,Account Issue
+Mohit Aggarwal,mohit.aggarwal@gmail.com,Account locked suddenly,Account Issue
+Riya Saxena,riya.saxena@outlook.com,Technical error in application,Technical Issue
+Kriti Bansal,kriti.bansal@yahoo.com,WiFi not connecting,Network Issue
+Divya Malhotra,divya.malhotra@gmail.com,Internet is not working,Network Issue
+Rahul Khanna,rahul.khanna@hotmail.com,Poor network coverage,Network Issue
+Priya Singh,priya.singh@hotmail.com,Transaction failed during payment,Payment Issue
+Pooja Iyer,pooja.iyer@hotmail.com,Payment page not loading,Payment Issue
+Ananya Gupta,ananya.gupta@company.com,Technical error in application,Technical Issue
+Sneha Patel,sneha.patel@gmail.com,Network speed is very slow,Network Issue
+Aditya Rao,aditya.rao@hotmail.com,Unexpected error occurred,Technical Issue
+Ananya Gupta,ananya.gupta@hotmail.com,Refund not received,Payment Issue
+Mohit Aggarwal,mohit.aggarwal@outlook.com,Error while making online payment,Payment Issue
+Pooja Iyer,pooja.iyer@gmail.com,Software not responding,Technical Issue
+Ishita Kapoor,ishita.kapoor@company.com,Network connection drops frequently,Network Issue
+Amit Choudhary,amit.choudhary@outlook.com,Need password reset,Account Issue
+Arjun Nair,arjun.nair@outlook.com,Internet is not working,Network Issue
+Ananya Gupta,ananya.gupta@hotmail.com,App crashes on opening,Technical Issue
+Payal Verma,payal.verma@yahoo.com,Poor network coverage,Network Issue
+Meera Das,meera.das@company.com,Software not responding,Technical Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Network connection drops frequently,Network Issue
+Ananya Gupta,ananya.gupta@hotmail.com,Payment page not loading,Payment Issue
+Aarav Sharma,aarav.sharma@gmail.com,Technical error in application,Technical Issue
+Aarav Sharma,aarav.sharma@company.com,Unable to login to my account,Account Issue
+Payal Verma,payal.verma@gmail.com,App crashes on opening,Technical Issue
+Rohan Verma,rohan.verma@outlook.com,Unexpected error occurred,Technical Issue
+Akash Mishra,akash.mishra@outlook.com,Transaction failed during payment,Payment Issue
+Divya Malhotra,divya.malhotra@outlook.com,Poor network coverage,Network Issue
+Vikram Malhotra,vikram.malhotra@company.com,Payment page not loading,Payment Issue
+Arjun Nair,arjun.nair@gmail.com,Account locked suddenly,Account Issue
+Nikhil Arora,nikhil.arora@company.com,Internet is not working,Network Issue
+Meera Das,meera.das@gmail.com,Application freezes again and again,Technical Issue
+Divya Malhotra,divya.malhotra@yahoo.com,Transaction failed during payment,Payment Issue
+Aarav Sharma,aarav.sharma@hotmail.com,Error while making online payment,Payment Issue
+Pooja Iyer,pooja.iyer@yahoo.com,Payment failed but money deducted,Payment Issue
+Sneha Patel,sneha.patel@gmail.com,Internet is not working,Network Issue
+Kriti Bansal,kriti.bansal@gmail.com,Need password reset,Account Issue
+Arjun Nair,arjun.nair@yahoo.com,Payment page not loading,Payment Issue
+Aarav Sharma,aarav.sharma@yahoo.com,Network connection drops frequently,Network Issue
+Aditya Rao,aditya.rao@yahoo.com,Refund not received,Payment Issue
+Arjun Nair,arjun.nair@hotmail.com,Unable to login to my account,Account Issue
+Ishita Kapoor,ishita.kapoor@company.com,Application freezes again and again,Technical Issue
